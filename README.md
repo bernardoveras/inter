@@ -1,1 +1,1 @@
-# Clone of the Inter Bank app in Flutter!
+# 🍊 Clone of the Inter Bank app in Flutter!

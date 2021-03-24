@@ -7,3 +7,4 @@
 > [GetX](https://github.com/jonataslaw/getx)<br>
 > [Get Storage](https://github.com/jonataslaw/get_storage)<br>
 > [Flutter ScreenUtil](https://github.com/OpenFlutter/flutter_screenutil)<br>
+> `and use Null-Safety!`

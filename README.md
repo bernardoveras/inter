@@ -1,6 +1,6 @@
 # 🍊 Clone of the Inter Bank app in Flutter!
 
-### Inter bank app clone using the [Getx Clean pattern](https://github.com/bernardoveras/getx_clean)
+### Inter bank app clone using the [Getx Clean Pattern](https://github.com/bernardoveras/getx_clean)
 
 #### Features:
 > [Flutter](https://github.com/flutter/flutter)<br>
